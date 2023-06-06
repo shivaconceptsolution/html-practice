@@ -1,0 +1,57 @@
+HTML:- IT means Hypertext markup language, it is used to create user interface of any web applicattion.
+
+HTML uses predefine element and attribute to design UI.
+
+for example if we want to write group of lines then we use paragraph.
+
+<p align="right"> line 1 st ... </p>
+<p> line2 st ... </p>
+
+here <p> is the element and 'align' is the attribute.
+
+Basic HTML Structure
+
+<html>
+<head>
+    <title> Page title  </title>
+</head>
+<body>
+      Content....
+</body>
+
+</html>
+
+
+<html> .. </html>:-  It is root element of HTML web page that contains all elements inside it.
+it is mandatory to write for standard page structure.
+
+<head>....</head>:-  It is first child element of HTML root element.
+
+It contains page title, meta tag for SEO(Search Engine Optimization), style tag to link css and script tag for javascript.
+
+<body>...</body>:-  It is content section of web page that is used to design the layout, form elements and other HTML tag element.
+
+............................................................
+
+extension of html file   .html or .htm
+
+
+<h1> to <h6>:-  these are called heading tag, it will display bold text in ascending order
+
+<hr>:-  it means horizontal row, it display the horizontal line in html page for page partition.
+
+<p>:-  it is used to contain group of lines, if we use multiple <p> tag then it will shift the content into new line  automatically.
+
+<br>:-  it is used to break the line means shift the content into new line.
+
+<img>:-  it is used to display image content under web page.
+it define image path under src attribute.
+
+
+
+
+
+
+
+
+
