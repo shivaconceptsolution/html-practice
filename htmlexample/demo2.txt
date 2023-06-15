@@ -48,6 +48,49 @@ extension of html file   .html or .htm
 it define image path under src attribute.
 
 
+Semantic HTML TAG:-
+
+
+This tag is used to provide multiple section or parition under web page. Semantic Tag uses following predefine HTML Tag elements.
+
+1)  <header>  </header>:
+
+    it is used to create header section of web page
+
+2)  <nav></nav>:
+
+    it is used to create navigation based section under web page
+
+3)   <section></section>
+
+    It is used to create middle partition of any web page
+
+4)   <footer></footer>
+
+     It is used to create footer section of web page
+
+
+
+
+Graphics Tag:-
+
+Canvas :-
+
+It is the main container to draw the graphics icons and implement animation using javascript and jquery.
+
+<canvas width="200" height="200">
+
+</canvas>
+
+
+IFrame Tag:-
+
+it is used to link the extenal application content inside web page, we can provide complete path of web page to display under iframe.
+
+<iframe src="path" width="" height="" >
+
+</iframe>
+
 
 
 
