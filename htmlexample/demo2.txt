@@ -47,6 +47,69 @@ extension of html file   .html or .htm
 <img>:-  it is used to display image content under web page.
 it define image path under src attribute.
 
+<font>:-  it is used to change the font-size, color and font-family.
+
+&nbsp:-  it is used to create space in between elements 
+
+<sup>:-  it is used to create superscript based text
+
+a<sup>2</sup>
+
+<sub>:-  it is used to create subscript based text content
+
+h<sub>2</sub>
+
+<table>:-  it is a collection of rows and columns, it is used to display the content into tabular format.
+
+table row represented by <tr>
+table column represented by <td>
+table heading will be represented by <th>
+
+
+<label> </label>:- it is used to write single line content under HTML web page.
+
+<b>:-  to create bold content
+
+<i>:-  to create italic content
+
+<mark>: to highlight content
+
+<strike>:-  to create cross text
+
+<strong>: -  it is used to create bold text and provide high priority to google seo content.
+
+<marquee>:-  it is used to rotate the content according to direction(right,left, up, down)
+
+Anchor Tag or Link Tag:-  it is used to create link text or hyperlink
+
+<a href="path">Title</a>
+
+
+List Tag:-
+
+1) Orederd List:-  display element in order number
+
+<ol><li>....</li></ol>
+ol ordered list
+li list item
+
+2) Unordered List:- display elements with symbol
+<ul><li>....</li></ul>
+
+3) Defination List:- display defination title and data using <dl>,<dt> and <dd>
+
+
+Field set:-
+
+it is used to create titlebox using <fieldset> and <legend>, <legend> tag is used to define title.
+
+<div>:- it means container that is used to display multiple child elements.
+
+default width is 100% and height auto.
+
+<span>:-  it is inline container , width and height both are auto.
+
+
 
 Semantic HTML TAG:-
 
